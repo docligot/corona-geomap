@@ -9,6 +9,7 @@ Built as part of the [analytics](https://github.com/docligot/coronatracker-analy
 Data source: [Wuhan Coronavirus (2019-nCoV) Global Cases by Johns Hopkins University CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
 ## More information
-[Main CoronaTracker repository](https://github.com/theleadio/coronatracker)
-[CoronaTracker Analytics repository](https://github.com/docligot/coronatracker-analytics)
+
+- [Main CoronaTracker repository](https://github.com/theleadio/coronatracker)
+- [CoronaTracker Analytics repository](https://github.com/docligot/coronatracker-analytics)
 
