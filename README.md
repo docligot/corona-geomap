@@ -1,7 +1,6 @@
 # CoronaTracker Geomap (a.k.a. corona-geomap)
 
-## What is this?
-Geo-visualization of 2019-nCoV confirmed cases and deaths using Plotly. 
+Geo-visualization of 2019-nCoV confirmed cases and deaths using Plotly and GeoPandas, by @hweecat 
 
 Built as part of the [analytics](https://github.com/docligot/coronatracker-analytics) for [CoronaTracker](https://coronatracker.com), a worldwide collaboration involving data scientists, engineers, application developers, health and business professionals who contribute to a central information web portal on the 2019 Novel Coronavirus (2019-nCoV) epidemic.
 
